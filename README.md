@@ -24,6 +24,7 @@ Execute the programs and publish them.
 
 # CODE
 ```
+main map.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,11 +38,11 @@ Execute the programs and publish them.
         <area shape="rect" coords="784,58,1080,138" title="Electronics store" href=file:///C:/Users/Arun/HTML%20PRACTICE/imap1.html>
         <area shape="rect" coords="705,276,889,383" title="Medical store" href=file:///C:/Users/Arun/HTML%20PRACTICE/imap2.html>
         <area shape="rect" coords="299,580,473,679" title="Book store" href=file:///C:/Users/Arun/HTML%20PRACTICE/imap3.html>
-    </map>
-</body>
+        <area shape="rect" coords="1027,721,525,595" title="UNION BANK OF INDIA" href= file:///C:/Users/Arun/HTML%20PRACTICE/imap4.html>
+        <area shape="rect" coords="18,442,255,636" title="sun shine kid school" href="file:///C:/Users/Arun/HTML%20PRACTICE/imap5.html">
 </html>
 
-mohan electic store.html
+imap 1.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -99,7 +100,7 @@ mohan electic store.html
     <p>Your one-stop shop for all your electric needs</p>
 </header>
 
-<img class="banner" src="C:\\Users\\Arun\\Documents\\electronics store.jpg" alt="Electric Store Banner">
+<img class="banner" src="C:\\Users\\Arun\\Documents\\electronics store.jpg" height="750" width="1000" alt="Electric Store Banner">
 
 <div class="container">
     <h2>Our Products</h2>
@@ -121,7 +122,7 @@ mohan electic store.html
 </body>
 </html>
 
-saravana medical store.html
+imap 2.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -200,8 +201,7 @@ saravana medical store.html
 </body>
 </html>
 
-book store.html
-
+imap 3.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -280,15 +280,174 @@ book store.html
     </footer>
 </body>
 </html>
+
+imap 4.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNION BANK OF INDIA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .banner {
+            width: 100%;
+            height: auto;
+        }
+        .container {
+            padding: 20px;
+        }
+        .product {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .product img {
+            max-width: 200px;
+            margin-right: 20px;
+            float: left;
+        }
+        .product h3 {
+            margin-top: 0;
+        }
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Union Bank Of India</h1>
+    <p>your money our responsible</p>
+</header>
+
+<div class="container">
+    <h2>about us</h2>
+
+    <div class="product">
+        <p>Union Bank of India is one of the leading public sector banks of the country. The Bank is a listed entity, and the Government of India holds 74.76 percent in Bank’s total paid-up capital. The Bank, having its headquarters at Mumbai (India), was registered on November 11, 1919 as a limited company. On 1st April 2020, Andhra Bank and Corporation Bank were amalgamated into Union Bank of India. </div>
+
+    <h2>Contact Us</h2>
+    <p><strong>Address:</strong> City union bank,Ramnadu</p>
+    <p><strong>Phone:</strong>9874563210</p>
+    <p><strong>Email:</strong> cityunionbank.com</p>
+</div>
+
+
+
+</body>
+</html>
+
+imap5.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sun shine kid school</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .banner {
+            width: 100%;
+            height: auto;
+        }
+        .container {
+            padding: 20px;
+        }
+        .product {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .product img {
+            max-width: 200px;
+            margin-right: 20px;
+            float: left;
+        }
+        .product h3 {
+            margin-top: 0;
+        }
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to sun shines kid school</h1>
+    <p>education is the key of success</p>
+</header>
+
+<div class="container">
+    <h2>about us</h2>
+
+    <div class="product">
+        <p>Our dedicated Teachers and staff are here to guide and support our students to explore new ideas, and challenges and to develop critical thinking skills. We believe in a culture of inclusivity, respect,At Sunshine Chennai Senior Secondary School your child will enter the world of Letters to take great strides towards success in lifeSun Shine Kids School located in Ramanathapuram, Krishnagiri. Find details for fee structure, reviews, admission process 2022-23. Easily compare for grade Play - Nursery on Skoodos
+    <h2>Contact Us</h2>
+    <p><strong>Address:</strong> sun shines kid school,Ramnadu</p>
+    <p><strong>Phone:</strong>9874563210</p>
+    <p><strong>Email:</strong> sunshine@gmail.com</p>
+</div>
+
+
+
+</body>
+</html>
 ```
+
+   
 # OUTPUT
-![Screenshot 2024-12-04 214602](https://github.com/user-attachments/assets/223ef8f9-6284-4cb7-9a9d-091a42f25a21)
-![Screenshot 2024-12-04 214810](https://github.com/user-attachments/assets/da3dd297-e89a-447b-a6d5-1921d9523a71)
-![Screenshot 2024-12-04 214822](https://github.com/user-attachments/assets/45bdb5dc-a2e2-43ce-9776-a8e13ba99d68)
-![Screenshot 2024-12-04 214937](https://github.com/user-attachments/assets/1fb1091e-5986-4234-916d-3fbf1ecdabf6)
-![Screenshot 2024-12-04 215100](https://github.com/user-attachments/assets/afd1e9d4-9fca-4a84-94f8-c7de34b1becd)
+![Screenshot 2024-12-04 214810](https://github.com/user-attachments/assets/237c0daa-4eda-4586-aaf1-592004fbdb44)
+![Screenshot 2024-12-04 214822](https://github.com/user-attachments/assets/23c7049b-d097-44b8-95b8-acd83e22de96)
+![Screenshot 2024-12-04 214937](https://github.com/user-attachments/assets/5c0b1792-7759-42c8-b86f-87ed479c670d)
+![Screenshot 2024-12-04 215100](https://github.com/user-attachments/assets/4f71a170-c621-4533-94a7-47fdaecf6bb2)
+![Screenshot 2024-12-05 220237](https://github.com/user-attachments/assets/aae5467e-c2ab-4a36-adb7-0273d35990f1)
+![Screenshot 2024-12-05 220314](https://github.com/user-attachments/assets/69ef94c4-bb3b-4526-95d7-d1ebd81ac33a)
+![Screenshot 2024-12-05 220329](https://github.com/user-attachments/assets/e4a69fbc-5b80-42f4-b740-a56546db8a8a)
+
+
+
+
+
 
 
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
+
