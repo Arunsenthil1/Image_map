@@ -434,7 +434,8 @@ imap5.html
    
 # OUTPUT
 ![Screenshot 2024-12-04 214810](https://github.com/user-attachments/assets/237c0daa-4eda-4586-aaf1-592004fbdb44)
-![Screenshot 2024-12-04 214822](https://github.com/user-attachments/assets/23c7049b-d097-44b8-95b8-acd83e22de96)
+![Screenshot 2024-12-07 153449](https://github.com/user-attachments/assets/2829ef2b-2524-4c0e-96f3-90641fb10903)
+
 ![Screenshot 2024-12-04 214937](https://github.com/user-attachments/assets/5c0b1792-7759-42c8-b86f-87ed479c670d)
 ![Screenshot 2024-12-04 215100](https://github.com/user-attachments/assets/4f71a170-c621-4533-94a7-47fdaecf6bb2)
 ![Screenshot 2024-12-05 220237](https://github.com/user-attachments/assets/aae5467e-c2ab-4a36-adb7-0273d35990f1)
